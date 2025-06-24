@@ -10,7 +10,7 @@ Download the 'schema' and 'ppcm' zip files and install them in this order:
 2. Assign this role to users in your district who will review the PPCM Dashboard.  These users will review, approve, and/or deny all requests. 
 3. After installation, edit the link below with your PowerSchool district subdomain (the red part) below to access your PPCM prefs page.
 
-https://{yourschooldistrict}.powerschool.com/admin/ppcm/prefs.html
+https://{yourschooldistrict}.powerschool.com/admin/ppcm/prefs.html<br><p>
 ![image](https://github.com/user-attachments/assets/9dda1dfd-f112-46dc-86f4-c71d5de10780)
 
 <b>Functionality Tiers</b>
