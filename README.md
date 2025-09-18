@@ -16,7 +16,7 @@ https://{yourschooldistrict}.powerschool.com/admin/ppcm/prefs.html<br><p>
 <b>Functionality Tiers</b>
 
 <b>View Only</b>
-<ul>Upon successful installation, this plugin will immediately display a new 'Contact Management' page (located in the left menu of the Parent Portal) for any student a parent/contact has data accessed assigned.</ul>
+<ul>Upon successful installation, this plugin will immediately display a new 'Contact Management' page (located in the left menu of the Parent Portal).</ul>
 
 <b>Contact Management</b>
 <ul>To allow a parent/contact to edit existing and submit additional contacts:</ul>
