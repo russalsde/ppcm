@@ -26,6 +26,13 @@ https://{yourschooldistrict}.powerschool.com/admin/ppcm/prefs.html<br><p>
   <li>Check the parameter box for 'Manage Contacts' (this is a per student setting)</li>
 </ol>
 
+<b>Set 'Manage Contacts' checkbox in Mass for ALL Custodial Contacts (optional)</b>
+
+Follow these steps to to set the 'Manage Contacts' checkbox for every contact listed as a custodial contact.
+1. Download and install the 'ALSDEManageContactsImportPQ.zip' in your PowerSchool instance
+2. Follow the instruction provided in the 'UPDATED_SetManageContactsinMassforAllCustodialContacts.pdf' file
+3. This process will allow all custodial contacts with parent portal data access to submit changes and change requests to their student's associated contacts.
+
 <b>Additional Security Consideration</b>
 
 Follow these steps to limit administrative rights for setting a contact's ability to 'Manage Contacts' (must have PS admin rights to set Field Level Security)
